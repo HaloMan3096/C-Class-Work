@@ -20,7 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b32a49bb-fcb9-49f0-8b4b-12a54665d1de" name="Changes" comment="created repo" />
+    <list default="true" id="b32a49bb-fcb9-49f0-8b4b-12a54665d1de" name="Changes" comment="updated info">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,11 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectApplicationVersion">
@@ -55,7 +62,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "PRIME",
     "last_opened_file_path": "C:/Users/logan/CLionProjects/CW",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -84,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727831337622</updated>
-      <workItem from="1727831339225" duration="1685000" />
+      <workItem from="1727831339225" duration="2326000" />
     </task>
     <task id="LOCAL-00001" summary="created repo">
       <option name="closed" value="true" />
@@ -94,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727832512983</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated info">
+      <option name="closed" value="true" />
+      <created>1727833430342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727833430342</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="created repo" />
+    <MESSAGE value="updated info" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated info" />
   </component>
 </project>
